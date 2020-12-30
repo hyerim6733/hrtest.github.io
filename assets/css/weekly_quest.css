@@ -1,0 +1,24 @@
+.header-span {
+    padding-bottom: 2rem;
+}
+.header-span span {
+    border: 1px solid gray;
+    border-radius: 0.3rem;
+    margin: 1.5rem;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+}
+.select-tab {
+    background-color: blanchedalmond;
+    color: black;
+}
+.not-select-tab {
+    background-color: white;
+    color: gray;
+}
+.w_hide {
+    display: none;
+}
+.w_show {
+    display: block;
+}
